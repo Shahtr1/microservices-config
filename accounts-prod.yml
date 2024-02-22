@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related prod APIs "
   contactDetails:
     name: "Shahrukh Tramboo - Product Owner"
-    email: "shahrukh@eazybank.com"
+    email: "{cipher}205f248b6419576def6ec6ba6cf9f6f2761029d21976687ed0f68dfceb681b755ba9b85b240ff252e10afbbafa01f257"
   onCallSupport:
     - (453) 392-1234
     - (236) 889-1345
